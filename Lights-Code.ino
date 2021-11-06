@@ -615,36 +615,6 @@ void loop()
   int pressed1 = digitalRead(switch1); // Reads the Button Input (Button 2)
   int pressed2 = digitalRead(switch2); // Reads the Button Input (Button 3)
 
-  //for (int i = 0; i <= num_loops; i++) {
-  //   leds[i] = CRGB(0, 255, 0);
-  //}
-  //FastLED.show();
-
-  //for (int i = 0; i <= num_loops; i++) {
-    //if (i % 2 == 0) {
-      //leds[i] = CRGB(100, 100, 100); 
-    //}
-    //else {
-      //leds[i] = CRGB(0, 0, 0);
-    //}
-  //}
-
-  //FastLED.show();
-
-  //int add = 0;
-  
-  //for (int i = 0; i <= num_loops / 12; i++) {  
-    
-    //for (int i = add; i <= 2 + add; i++) {
-      //leds[i] = CRGB(255, 0, 0);
-    //}
-    //for (int i = 6 + add; i <= 8 + add; i++) {
-      //leds[i] = CRGB(0, 255, 0);
-    //} 
-    //add += 12;
-  //}
-  //FastLED.show();
-
   int x = 0;
 
   for (int i = 0; i <= 40; i++) {
