@@ -1,12 +1,6 @@
 /* 
- By Arteen Mirzaei
+ By Arteen M
  September 14th 2020
- Version 1.2
- Changes Made:
-
- Added 600 LED capacity
-
- Default to FIVE_FIFTEEN();
 
  0-179 -> Roofline 1
  180-375 -> Roofline 2
